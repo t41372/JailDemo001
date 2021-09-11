@@ -5,4 +5,5 @@ This is a demo project I created for my Unity learning and practice for the scho
 I had provided the documentation for most of the api in this program in the file "AVG Game Project Document.md", and you can take a look at it.
 
 
+![image](https://user-images.githubusercontent.com/36402030/132960745-df172b4f-cfd7-4cec-a8a4-66f82af9a9b3.png)
 

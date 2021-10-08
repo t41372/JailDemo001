@@ -1,4 +1,6 @@
 # gameProjectDemo001
+[Documentation (in Chinese)](https://github.com/t41372/JailDemo001/blob/master/AVG%20Game%20Project%20Document.md)
+<hr/>
 This is a demo project I created for my Unity learning and practice for the school-base game making project. This is also a sort of Unity-RPG skills Lab for learning purpose. This repository is created at 2020.5.4 in order to help myself to use git with unity
 
 ## How to program based on this program
